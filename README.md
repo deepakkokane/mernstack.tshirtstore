@@ -1,3 +1,10 @@
+# project images
+![Tshirt Store - Google Chrome 21-03-2021 18_43_17](https://user-images.githubusercontent.com/70268065/111907295-aee7c480-8a7a-11eb-90af-4a54665115f3.png)
+
+![Tshirt Store - Google Chrome 21-03-2021 18_43_36](https://user-images.githubusercontent.com/70268065/111907364-fd955e80-8a7a-11eb-9f6a-a63f1916b5cf.png)
+
+![Tshirt Store - Google Chrome 21-03-2021 18_44_08](https://user-images.githubusercontent.com/70268065/111907431-451bea80-8a7b-11eb-80f1-18dc9b3aa099.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -39,8 +46,8 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
+## Learn More!
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
